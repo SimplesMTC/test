@@ -6,3 +6,7 @@ This is nice!
 const name = "Gustavo";
 console.log(name.toUpperCase());
 ```
+
+# Getting ready
+
+YADDA YADDA YADDA.
