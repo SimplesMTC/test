@@ -10,3 +10,5 @@ console.log(name.toUpperCase());
 # Getting ready
 
 YADDA YADDA YADDA.
+
+Irineu
